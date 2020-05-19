@@ -1,4 +1,4 @@
-# gravity 
+# gravity 1
 menentukan letak layout
 ```xml
 android:gravity="center"
